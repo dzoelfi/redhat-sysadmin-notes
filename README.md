@@ -13,11 +13,10 @@ Welcome to my learning repository! This space is dedicated to documenting my jou
 
 ## Repository Structure
 - **01_Linux_Fundamentals:** Basic Linux commands, file system navigation, and core concepts.
-- **02_RedHat_Distributions:** Notes specific to Red Hat Enterprise Linux and Fedora.
-- **03_System_Setup_Maintenance:** Guides on server setup, configuration, and routine maintenance.
+- **02_System_Setup_Maintenance:** Guides on server setup, configuration, and routine maintenance.
+- **03_Networking_Essentials:** Networking concepts, configurations, and troubleshooting tips.
 - **04_Security_Best_Practices:** Documentation on implementing security measures and securing Linux systems.
-- **05_Networking_Essentials:** Networking concepts, configurations, and troubleshooting tips.
-- **06_Automation_with_Ansible:** Resources on automating tasks using Ansible.
+- **05_Automation_with_Ansible:** Resources on automating tasks using Ansible.
 
 ## How to Contribute
 Your contributions and feedback are highly valued! If you have insights, corrections, or additional examples to share, feel free to contribute:

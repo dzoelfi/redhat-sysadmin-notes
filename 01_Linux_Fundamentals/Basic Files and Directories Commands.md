@@ -23,12 +23,12 @@
      - `cd`: Change to the home directory.
      - `cd ..`: Move up one directory level.
      - `cd -`: Switch to the previous working directory.
-   ![cd](../Assets/cd.png)
+     ![cd](../Assets/cd.png)
 
 ## 5. `touch` - Create Empty File or Update File Timestamp
    - **Command:** `touch [file_name]`
    - **Explanation:** Creates an empty file with the specified name. If the file already exists, it updates the file's access and modification timestamps.
-![touch](../Assets/touch.png)
+   ![touch](../Assets/touch.png)
 
 ## 6. `echo` - Display Message or Output
    - **Command:** `echo [message]`
@@ -38,7 +38,7 @@
 ## 7. `cat` - Concatenate and Display File Content
    - **Command:** `cat [file_name]`
    - **Explanation:** Displays the contents of the specified file on the terminal. It can also be used to concatenate and display multiple files.
-![cat](../Assets/cat.png)
+   ![cat](../Assets/cat.png)
 
 ## 8. `cp` - Copy Files or Directories
    - **Command:** `cp [source] [destination]`

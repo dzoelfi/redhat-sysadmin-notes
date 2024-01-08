@@ -10,7 +10,7 @@
    - **Explanation:** Lists the files and directories in the current directory. Commonly used options include:
      - `-l`: Long format, providing detailed information about each file or directory.
      - `-a`: Displays hidden files (those starting with a dot).
-   ![ls](../Assets/ls.png)
+     ![ls](../Assets/ls.png)
 
 ## 3. `mkdir` - Make Directory
    - **Command:** `mkdir [directory_name]`
@@ -23,7 +23,7 @@
      - `cd`: Change to the home directory.
      - `cd ..`: Move up one directory level.
      - `cd -`: Switch to the previous working directory.
-   ![cd](../Assets/cd.png)
+     ![cd](../Assets/cd.png)
 
 ## 5. `touch` - Create Empty File or Update File Timestamp
    - **Command:** `touch [file_name]`

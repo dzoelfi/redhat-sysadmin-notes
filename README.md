@@ -1,7 +1,7 @@
-# Red Hat Linux System Administration Notes Repository
+# Red Hat Enterprise Linux System Administration Notes Repository
 
 ## Overview
-Welcome to my learning repository! This space is dedicated to documenting my journey towards becoming a proficient Linux System Administrator, with a focus on Red Hat technologies. From fundamental concepts to advanced configurations, this repository serves as a comprehensive record of my learning experiences.
+Welcome to my learning repository! This space is dedicated to documenting my journey towards becoming a proficient Linux System Administrator, with a focus on Red Hat Enterprise Linux technologies. From fundamental concepts to advanced configurations, this repository serves as a comprehensive record of my learning experiences.
 
 ## Learning Goals
 - **Mastering Linux Fundamentals:** Exploring the basics of the Linux command line, file system, and essential commands.

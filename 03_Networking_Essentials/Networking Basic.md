@@ -30,7 +30,8 @@ Let's embark on a journey to master network configuration on RHEL, equipping you
    - **Objective:** Set up DNS (Domain Name System) resolution.
    - **Steps:**
      - View `/etc/resolv.conf` to view DNS servers configuration.
-    ![dns](../Assets/dns.png)
+
+        ![dns](../Assets/dns.png)
 
 ## 5. Network Routes and Default Gateway
    - **Objective:** Define network routes and set the default gateway.
